@@ -1,0 +1,43 @@
+%% TnT statistically tagged file, Mon Sep 25 00:48:56 2017
+%% lexicon     : 1train.lex
+%% ngrams      : 1train.123
+%% corpus      : tokens.tt
+%% model       : trigrams
+%% sparse data : linear interpolation
+%%   lambda1 = 1.863733e-01   lambda2 = 3.256629e-01   lambda3 = 4.879638e-01
+%% unknown mode: statistics of singletons
+%% case of characters is significant
+%% using suffix trie up to length 10
+%% suffix backoff with theta = 1.406212e-01
+%% Thorsten Brants, thorsten@coli.uni-sb.de
+الیکشن		NN
+آف			PSP
+پاکستان		NNP
+مکہ			NNP
+پر			PSP
+ایٹم		NN
+مارنے		VBI
+کے			PSP
+ارادوں		NN
+کے			PSP
+اظہار		NN
+اور			CC
+غلام		NNP
+پاکستان		NNP
+یمن			NNP
+کو			PSP
+الیکشن		NN
+آف			PSP
+پاکستان		NNP
+ڈرون		NNP
+کی			PSP
+نوک			NN
+پر			PSP
+غلام		NN
+رکھنے		VBI
+کے			PSP
+عزم			NN
+کے			PSP
+باوجود		RB
+؟			PU
+
